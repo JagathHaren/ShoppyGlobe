@@ -2,7 +2,7 @@
 
 ShoppyGlobe is an e-commerce frontend application built with React. It has functionalties like cart management, product filtering, sorting, pagination, and a full checkout flow.
 
-## 🚀 Features
+## ✪ Features
 
 -  Client-side routing with React Router
 -  Real-time search, category filter, and sorting like using price 
@@ -12,7 +12,7 @@ ShoppyGlobe is an e-commerce frontend application built with React. It has funct
 
 ---
 
-## 🛠️ Tech Stack
+## ✪ Tech Stack
 
 - [React]           (https://reactjs.org/)
 - [Redux Toolkit]   (https://redux-toolkit.js.org/)
@@ -22,7 +22,7 @@ ShoppyGlobe is an e-commerce frontend application built with React. It has funct
 
 ---
 
-## 📦 Installation & Usage
+## ✪ Installation & Usage
 
 1. **Clone the repository**
 git clone https://github.com/Developer200010/ShoppyGlobal.git
