@@ -25,7 +25,7 @@ ShoppyGlobe is an e-commerce frontend application built with React. It has funct
 ## ✪ Installation & Usage
 
 1. **Clone the repository**
-git clone https://github.com/Developer200010/ShoppyGlobal.git
+git clone https://github.com/JagathHaren/ShoppyGlobe.git
 cd ShoppyGlobal
 
 
