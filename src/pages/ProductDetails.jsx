@@ -37,8 +37,8 @@ const ProductDetail = () => {
    <Link to="/">
    <ArrowBigLeft className="text-white"/>
    </Link>
-    <div className="max-w-5xl mx-auto bg-gray-800 rounded-xl shadow-lg overflow-hidden flex flex-col sm:flex-row border-2 border-white">
-      <div className="w-full sm:w-1/2 h-64 sm:h-auto bg-gray-900">
+    <div className="max-w-5xl mx-auto bg-gray-500 rounded-xl shadow-lg overflow-hidden flex flex-col sm:flex-row border-2 border-white">
+      <div className="w-full sm:w-1/2 h-64 sm:h-auto bg-gray-500">
         <img
           src={product.thumbnail}
           alt={product.title}
