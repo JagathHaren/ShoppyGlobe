@@ -13,11 +13,11 @@ function App() {
       <Header />
       <div className="px-4 py-6 max-w-6xl mx-auto">
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Home/>} />
           <Route path="/product/:id" element={<ProductDetail />} />
-          <Route path="/cart" element={<Cart />} />
+          <Route path="/cart" element={<Cart/>} />
           <Route path="/checkout" element={<Checkout />} />
-          <Route path="/thank-you" element={<ThankYou />} />
+          <Route path="/thank-you" element={<ThankYou/>} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </div>
